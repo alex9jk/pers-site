@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Alex Kramer
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,31 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer 2
+role: Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Ellucian
+    url: https://ellucian.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'ajkramer90@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/alex9jk
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/alex9jk/
 
 interests:
   - Artificial Intelligence
@@ -52,8 +46,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: M.S Information Science and Technology
+    institution: Rochester Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
