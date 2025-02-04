@@ -41,22 +41,17 @@ profiles:
     url: https://www.linkedin.com/in/alex9jk/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Amazon Web Services
+  - Machine Learning
+  - DevOps Engineering
 
 education:
   - area: M.S Information Science and Technology
     institution: Rochester Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BA Economics
+    institution: University at Buffalo
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -66,20 +61,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Software Engineer 2
+    company_name: Ellucian
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -89,17 +73,21 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Software Engineer
+    company_name: PricewaterhouseCoopers (PwC)
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - For a medical risk adjustment client, developed reusable frontend components and complex modules with modern React.js utilizing Styled Components within a micro-frontend architecture
+      - Collaborated with backend developers to leverage internal REST APIs
+      - Participated in an agile scrum methodology to produce timely deliverables
+      - To win client work, developed a proof of concept password matcher application with React.js using Styled Components and AppKit, a PwC custom component library
+      - For a financial institution client, developed a data analyzation tool to generate statistical reports using Python and SQL
+      - Collaborated with UI/UX designers and other stakeholders to satisfy design specifications for accessible user interfaces
+      - Translated business domain problems into feasible product features and functionalities 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,11 +110,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: The outdoors
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Tennis
         description: ''
         percent: 100
         icon: cat
@@ -135,13 +123,7 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -177,4 +159,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Extensive experience working as a software engineer consistently bringing value, reliability and impact to organizations and teams. Always excited to take on new challenges and adapt to the ever changing technology landscape.
